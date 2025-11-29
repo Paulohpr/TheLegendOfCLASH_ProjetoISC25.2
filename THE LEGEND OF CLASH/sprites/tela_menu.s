@@ -1,3 +1,4 @@
+.data
 menu: .word 320, 240
 
 
