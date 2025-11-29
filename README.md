@@ -18,6 +18,6 @@ Ou clique em **Code** e selecione **Download ZIP**.
 
 2. **Abra o projeto no FPGRARS:**
 
-   * Localize o arquivo `jogo.s`
+   * Localize o arquivo `main.s`
    * Abra ou mova o arquivo diretamente para o **FPGRARS**
 
